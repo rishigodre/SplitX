@@ -2,7 +2,6 @@
 
 SplitX, inspired by the functionality of [Splitwise](https://www.splitwise.com) and the clean design of [Venmo](https://www.venmo.com), is an app where users can keep track of and pay bills/expenses shared between friends.
 
-- [Live Site](https://splitx.herokuapp.com)
 - [MVP Feature List]
 - [Database Schema]
 - [Frontend Routes]
